@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:tizen="http://tizen.org/ns/widgets" id="http://meu-dominio.com/FUTtizen" version="1.0.0" viewmodes="fullscreen">
+    
+    <tizen:application id="SEU_ID.FutebolAoVivo" package="SEU_ID" required_version="2.3"/>
+    
+    <name>Futebol Ao Vivo</name>
+    <description>Aplicativo para assistir jogos de futebol ao vivo.</description>
+    <content src="index.html"/>
+    <feature name="http://tizen.org/feature/screen.size.normal.1080.1920"/>
+    <license>GPL-3.0-only</license>
+    <author>Seu Nome Aqui</author>
+
+    <access origin="https://multicanais.fans" subdomains="true"/>
+    <access origin="https://embed.multicanais.fans" subdomains="true"/>
+    
+</widget>
