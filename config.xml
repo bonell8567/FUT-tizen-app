@@ -8,7 +8,7 @@
     <content src="index.html"/>
     <feature name="http://tizen.org/feature/screen.size.normal.1080.1920"/>
     <license>GPL-3.0-only</license>
-    <author>[SEU NOME AQUI]</author>
+    <author>[EDUARDO]</author>
 
     <access origin="https://piratetv.pro" subdomains="true"/>
     <access origin="https://z3r0.site" subdomains="true"/>
