@@ -4,9 +4,9 @@
   "version": "1.0.0",
   "description": "App para assistir futebol ao vivo em TVs Tizen (Samsung), baseado no projeto TFlix.",
   "packageType": "mods",
-  "websiteURL": "https://multicanais.fans/",
+  "websiteURL": "https://embedtv-2.icu/premiere",
   "main": "dist/userScript.js",
-  "author": "Seu Nome Aqui",
+  "author": "EDUARDO",
   "serviceFile": "dist/service.js",
   "keys": [
     "MediaPlayPause",
